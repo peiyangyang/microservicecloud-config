@@ -1,4 +1,4 @@
-# microservicecloud-config
+
 spring:
   profiles:
     active: dev
